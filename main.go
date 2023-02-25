@@ -1,9 +1,7 @@
 package main
 
-import (
-	"github.com/jaquelb/competitions/coins"
-)
+import "github.com/jaquelb/competitions/prince"
 
 func main() {
-	coins.Pay()
+	prince.VisitLand()
 }
